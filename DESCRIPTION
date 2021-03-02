@@ -11,11 +11,11 @@ Description: This is a filler description for a test compendium
     for meta-analysis.
 License: MIT + file LICENSE
 Depends: 
-    dataRetrieval,
-    dplyr,
-    ggplot2,
-    lubridate,
-    tidyr,
-    viridis
+    plyr,
+    metafor,
+    corpcor,
+    ade4,
+    mice
+    
 Encoding: UTF-8
 LazyData: true
