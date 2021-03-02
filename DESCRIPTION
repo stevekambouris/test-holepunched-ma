@@ -1,14 +1,14 @@
 Type: Compendium
-Package: Compendium title
-Title: What the Package Does (One Line, Title Case)
+Package: test-ma-compendium
+Title: A Test Compendium For Reproducing Meta-Analyses
 Version: 0.0.1
 Authors@R: 
-    person(given = "Karthik",
-           family = "Ram",
+    person(given = "Steven",
+           family = "Kambouris",
            role = c("aut", "cre"),
-           email = "karthik.ram@gmail.com",
-           comment = c(ORCID = "0000-0002-0233-1757"))
-Description: Compendium description
+           email = "steve_rpackages@fastmail.com")
+Description: This is a filler description for a test compendium
+    for meta-analysis.
 License: MIT + file LICENSE
 Depends: 
     dataRetrieval,
