@@ -12,10 +12,7 @@ Description: This is a filler description for a test compendium
 License: MIT + file LICENSE
 Depends: 
     plyr,
-    metafor,
-    corpcor,
-    ade4,
-    mice
+    metafor
     
 Encoding: UTF-8
 LazyData: true
